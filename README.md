@@ -55,7 +55,8 @@ NoteKeeperAPI/
 | `templates/index.html`   | Página principal da aplicação.              |
 | `requirements.txt`       | Lista de dependências do projeto.          |
 
-Contribuição
+### Contribuição
+
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests. Para contribuir:
 
 Fork este repositório.
