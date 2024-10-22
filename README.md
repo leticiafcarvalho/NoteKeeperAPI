@@ -39,7 +39,7 @@ Para instalar e rodar o projeto, siga os passos abaixo:
    
 5. **Acesse a aplicação: Abra seu navegador e vá para http://127.0.0.1:5000.**
 
-      **Estrutura do Projeto**
+      ### **Estrutura do Projeto**
 NoteKeeperAPI/
 
 ### Descrição dos Arquivos
