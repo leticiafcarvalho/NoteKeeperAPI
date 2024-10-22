@@ -59,8 +59,8 @@ NoteKeeperAPI/
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests. Para contribuir:
 
-Fork este repositório.
-Crie uma nova branch (git checkout -b feature/nome-da-sua-feature).
-Faça suas alterações e commit (git commit -m 'Adiciona nova funcionalidade').
-Faça push para a branch (git push origin feature/nome-da-sua-feature).
-Abra um Pull Request.
+- Fork este repositório.
+- Crie uma nova branch (git checkout -b feature/nome-da-sua-feature).
+- Faça suas alterações e commit (git commit -m 'Adiciona nova funcionalidade').
+- Faça push para a branch (git push origin feature/nome-da-sua-feature).
+- Abra um Pull Request.
