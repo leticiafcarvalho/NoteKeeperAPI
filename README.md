@@ -41,17 +41,19 @@ Para instalar e rodar o projeto, siga os passos abaixo:
 
       **Estrutura do Projeto**
 NoteKeeperAPI/
-│
-├── app.py              # Código principal da aplicação
-├── models.py           # Modelos de dados
-├── static/             # Arquivos estáticos (CSS, JS)
-│   ├── css/
-│   │   └── style.css   # Estilos da aplicação
-│   └── js/
-│       └── script.js   # Scripts JavaScript
-├── templates/          # Templates HTML
-│   └── index.html      # Página principal da aplicação
-└── requirements.txt     # Dependências do projeto
+
+### Descrição dos Arquivos
+
+| Pasta/Arquivo            | Descrição                                   |
+|--------------------------|---------------------------------------------|
+| `app.py`                 | Código principal da aplicação.              |
+| `models.py`              | Definições dos modelos de dados.            |
+| `static/`                | Contém arquivos estáticos, como CSS e JS.  |
+| `static/css/`            | Arquivos de estilo CSS.                     |
+| `static/js/`             | Scripts JavaScript utilizados na aplicação. |
+| `templates/`             | Contém templates HTML.                      |
+| `templates/index.html`   | Página principal da aplicação.              |
+| `requirements.txt`       | Lista de dependências do projeto.          |
 
 Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests. Para contribuir:
